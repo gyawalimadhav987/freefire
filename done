@@ -1,0 +1,219 @@
+<!--https://blob.sololearn.com/avatars/924284f8-9724-4708-9d96-cff6dbfee14d.jpg-->
+
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Page Title</title>
+
+    </head>
+
+    <body>
+
+        <div id="page2">
+
+    <pre id="end">
+
+          THE END
+
+      </pre>
+
+         
+
+         <div class="sdiv" id="sd1"></div>
+
+         <pre id="sp6" class="sp">
+
+             Wishing you a very Happy
+
+             birthday!!!May god bless
+
+             you with all you desire
+
+             and enjoy evrry moment of
+
+             your life...
+
+             </pre>
+
+         <pre id="sp5" class="sp">
+
+             For many other reasons too
+
+             I am grateful to have an 
+
+             elder sister like you..
+
+             Teaching me life lessons.
+
+             Made you my "MUMMA"
+
+             </pre>
+
+         <pre id="sp4" class="sp">
+
+             You came as angel for me
+
+             Blessed me with your
+
+             thoughts..and at times
+
+             taught me life lessons..
+
+             which are worthy than me
+
+             </pre>
+
+         <pre id="sp3" class="sp">
+
+             I dont have words to 
+
+             express how lucky i am
+
+             and the gratitude towards
+
+             you which I keep..You just
+
+             awesomee dude!!
+
+             </pre>
+
+         <pre id="sp2" class="sp">
+
+             We met last year here
+
+             As unknowns to each other
+
+             But now I think...no one
+
+             can take your place...in
+
+             my "red" heart..
+
+             </pre>
+
+             <pre id="sp1" class="sp">
+
+             As the lines of the song,
+
+             You are in my dreams at
+
+             every night..To you the 
+
+             dearest sista..You are 
+
+             Amaazziinnnnggg...
+
+             </pre>
+
+        <div id="nav">
+
+            
+
+            
+
+        </div>
+
+        <div id="ball1">❤</div>
+
+        <div id="ball2">❤</div>
+
+        <div class="cor" id="cor1"></div>
+
+        <div class="cor" id="cor2"></div>
+
+        <div class="cor" id="cor3"></div>
+
+        <img src="https://www.animatedimages.org/data/media/140/animated-love-image-0568.gif" id="my"/>
+
+        <div class="cor" id="cor4">
+
+       <div id="cake" onclick="cake()">
+
+       <div id="plate"></div>
+
+       <div id="base"></div>
+
+       <div id="mid"></div>
+
+       <div id="top"></div>
+
+       <img src="https://media.tenor.com/images/370da7a2edd8a919a71a49343ba77f28/tenor.gif" id="cand2">
+
+       <img src="https://media.tenor.com/images/ba33a1e0e5cd1a7208730ecf8a02cf72/tenor.gif" id="cand"/> 
+
+       <pre id="bt">
+
+             Happy B'day
+
+             NIKI MUMMA
+
+         </pre>  
+
+         
+
+        <pre id="tf">🌸🌸🌸</pre>
+
+        <pre id="mf">🌸🌸🌸🌸</pre>
+
+        <pre id="mc1">🕯️</pre>
+
+        <pre id="mc2">🕯️</pre>
+
+        <pre id="bc1">🕯️</pre>
+
+        <pre id="bc2">🕯️</pre>
+
+        </div>
+
+        
+
+        <img src="https://c.tenor.com/F_y32iYDzgQAAAAj/dritan-dritan-alsela.gif" id="s1"/>
+
+        <img/>
+
+        <img src="https://c.tenor.com/oAwZ_8nmbMEAAAAj/happy-birthday-birthday-bear.gif" id="s2"/>
+
+        </div>
+
+        
+
+        </div>
+
+        <div id="cover">
+
+        <div class="page" id="top1">
+
+        <div class="bars" id="bar1"></div>
+
+        <div class="bars" id="bar2"></div>
+
+        <div class="bars" id="bar3"></div>
+
+        <div class="bars" id="bar4"></div>
+
+        <div class="bars" id="bar5"></div>
+
+        <div class="bars" id="bar6"></div>
+
+        <div class="bars" id="bar7"></div>
+
+        <div class="bars" id="bar8"></div>
+
+        </div>
+
+      <div id="pfpi"><img src="https://api.sololearn.com/Uploads/Avatars/12447674.jpg" id="pfp" onclick="bars()"/>
+
+      </div>
+
+      </div>
+
+      <audio controls style="display:none" src="https://www.dropbox.com/s/qeaxenxy14hmdsv/my%20heart%20will%20go%20on%20%28raagjatt.com%29.mp3?dl=1" id="my_heart" loop></audio>
+
+      
+
+    </body>
+
+</html>
